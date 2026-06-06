@@ -216,3 +216,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Power BI local/cache files
+**/.pbi/localSettings.json
+**/.pbi/cache.abf
+
+# Power BI temporary files
+*.tmp
+*.temp
+
+# Windows temporary files
+Thumbs.db
+Desktop.ini
